@@ -28,6 +28,10 @@
 !loggers.json
 !AvailableServices.txt
 !BlockServices.txt
+!Data.vec
+!Reflection.mat
+!Scaling.mat
+!Shrinking.mat
 
 # !Makefile
 
