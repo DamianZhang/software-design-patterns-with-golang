@@ -25,6 +25,7 @@
 !script.txt
 !scriptForSuperRelationshipAnalyzer.txt
 !dataSource.txt
+!loggers.json
 
 # !Makefile
 
