@@ -22,6 +22,8 @@
 !OOD.png
 !delegators_of_prescription_diagnosticer.txt
 !patients.json
+!script.txt
+!scriptForSuperRelationshipAnalyzer.txt
 
 # !Makefile
 
