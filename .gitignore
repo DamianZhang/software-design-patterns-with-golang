@@ -17,8 +17,11 @@
 !README.md
 !LICENSE
 
+# Secondary data
 !OOA.png
 !OOD.png
+!delegators_of_prescription_diagnosticer.txt
+!patients.json
 
 # !Makefile
 
