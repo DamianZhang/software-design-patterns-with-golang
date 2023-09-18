@@ -24,6 +24,7 @@
 !patients.json
 !script.txt
 !scriptForSuperRelationshipAnalyzer.txt
+!dataSource.txt
 
 # !Makefile
 
